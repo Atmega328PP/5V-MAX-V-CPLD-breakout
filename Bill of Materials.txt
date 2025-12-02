@@ -14,7 +14,7 @@ TXS0108EPWR
 	Quantity: 6
 	Digikey link: https://www.digikey.com/en/products/detail/texas-instruments/TXS0108EPWR/1775302
 	Current unit price:	1.52 USD
-	Current price for 6 units:  USD
+	Current price to order 6 units: 9.12 USD
 	Notes: You could buy 10 from digikey for 11.08 USD currently
 
 CPLD:
@@ -52,9 +52,35 @@ Board primary headers:
 	Current price for pack of 12 40 pin headers: 4.39 USD
 	Notes: This is obviously VERY generic, and these headers can be broken into the ideal size, so I recommend that you find the best deal for a pack of them.
 
+Capacitors:
 
+10μF 0805:
+	Quantity: 1
+	Digikey link: https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOQNNNE/3886754
+	Current unit price: 0.08 USD
+
+.01μF 0805:
+	Quantity: 20
+	Digikey link: https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874
+	Current unit price: 0.08 USD
+	Current price to order 20 units in cut-tape: 0.24 USD
+	Notes: Ordering more than 10 reduces unit price to 0.012 USD
+
+Resistors:
+
+10kΩ 0805:
+	Quantity: 2
+	Digikey link: https://www.digikey.com/en/products/detail/vishay-dale/CRCW080510K0FKEA/1175751
+	Current unit price: 0.1 USD
+	Current price to order 2 units: 0.2 USD
+
+1kΩ 0805:
+	Quantity: 1
+	Digikey link: https://www.digikey.com/en/products/detail/vishay-dale/CRCW08051K00FKEA/1175637
+	Current unit price 0.1 USD
+	
 Total approximate price:
 
-	15.86 USD excluding male headers
-	17 USD including male headers
-	25-45 USD including PCB manufacturing (HIGHLY DEPENDANT ON MANUFACTURER)
+	16.48 USD excluding primary headers
+	18.2 USD including male headers
+	25-47 USD including PCB manufacturing (HIGHLY DEPENDANT ON MANUFACTURER)
